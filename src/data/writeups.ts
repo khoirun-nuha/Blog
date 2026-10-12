@@ -86,7 +86,7 @@ export const writeups: Writeup[] = [
   },
   {
     id: "jcc-2025",
-    title: "Write-up JCC (Jember Cyber Community) CTF 2025",
+    title: "Write-up JCC 2025",
     date: "2025-07-25",
     tags: ["JCC 2025", "Reverse Engineering", "Web Security", "Misc"],
     category: "CTF Competition",
