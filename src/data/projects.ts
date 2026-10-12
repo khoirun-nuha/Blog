@@ -49,7 +49,7 @@ export const projects: Project[] = [
       "Dibangun menggunakan Next.js App Router, TypeScript, dan Tailwind CSS dengan arsitektur modern, terminal widget interaktif, dan optimasi performa tinggi.",
     techStack: ["Next.js", "TypeScript", "Tailwind CSS"],
     category: "web",
-    githubUrl: "https://github.com/khoirun-nuha",
+    githubUrl: "https://github.com/khoirun-nuha/Blog",
     featured: true,
     year: 2026,
   },
